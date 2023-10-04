@@ -1,7 +1,5 @@
 ### Hi! I'm Nikkita Andrea C. Roxas 👋
 
-### Mechatronics Engineering Student at Batangas State University - Alangilan
-
 <!--
 **ROXAS-NA/ROXAS-NA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
