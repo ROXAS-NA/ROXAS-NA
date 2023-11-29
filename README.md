@@ -1,5 +1,5 @@
 ### Hi! I'm Nikkita Andrea C. Roxas 👋
-👩‍🎓 4th Year Mechatronics Engineering Student at Batangas State University - Alangilan. 
+👩‍🎓 **4th Year Mechatronics Engineering Student** at Batangas State University - Alangilan. 
 
 
 <!--
